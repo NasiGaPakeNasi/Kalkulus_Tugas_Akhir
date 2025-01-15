@@ -1,0 +1,8 @@
+# ninja log v6
+2	263	7586675221664197	build.ninja	8964c58e784bb846
+23	32	7586673550687089	clean	627ac5a78c1239ae
+465	891	7586669247517055	3D_Test.exe	c3ff3afe1d4ebc79
+10	1585	7586673551874176	CMakeFiles/Kalkulus_TugasAkhir_Kelompok.dir/Kalkulus_Kurva_3D.cpp.obj	db218bb6afb25692
+1589	1750	7586673567662653	Kalkulus_TugasAkhir_Kelompok.exe	52fe13325e51c8a2
+42	1930	7586675388139299	CMakeFiles/Kalkulus_TugasAkhir_Kelompok.dir/Kalkulus_Kurva_3D.cpp.obj	db218bb6afb25692
+1931	2092	7586675407018309	Kalkulus_TugasAkhir_Kelompok.exe	52fe13325e51c8a2

@@ -1,0 +1,3 @@
+C:/Users/FICEN LIANA/CLionProjects/Kalkulus_TugasAkhir_Kelompok/cmake-build-debug/CMakeFiles/Kalkulus_TugasAkhir_Kelompok.dir
+C:/Users/FICEN LIANA/CLionProjects/Kalkulus_TugasAkhir_Kelompok/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/FICEN LIANA/CLionProjects/Kalkulus_TugasAkhir_Kelompok/cmake-build-debug/CMakeFiles/rebuild_cache.dir

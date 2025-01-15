@@ -1,0 +1,5 @@
+ToolSet: 9.0 w64 (local)@C:\MinGW
+Ninja: 1.12.1@C:\Users\FICEN LIANA\AppData\Local\Programs\CLion\bin\ninja\win\x64\ninja.exe
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=C:/Users/FICEN LIANA/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe
