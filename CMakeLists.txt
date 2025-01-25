@@ -6,6 +6,6 @@ set(CMAKE_CXX_STANDARD 17)
 include_directories("C:/SDL2/include")
 link_directories("C:/SDL2/lib")
 
-add_executable(Kalkulus_TugasAkhir_Kelompok Kalkulus_Kurva_3D.cpp)
+add_executable(Kalkulus_TugasAkhir_Kelompok Testing.cpp)
 
 target_link_libraries(Kalkulus_TugasAkhir_Kelompok SDL2 SDL2main opengl32 glu32)

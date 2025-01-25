@@ -38,5 +38,9 @@ int main() {
         cout << endl;
     }
 
+    // Tambahkan bagian ini untuk menunggu input sebelum program ditutup
+    cout << "Tekan Enter untuk keluar..." << endl;
+    cin.get();
+
     return 0;
 }
