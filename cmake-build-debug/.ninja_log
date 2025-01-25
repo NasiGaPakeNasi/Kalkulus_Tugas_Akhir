@@ -1,10 +1,10 @@
 # ninja log v6
-13	730	7595017777709831	build.ninja	b5797a31e68163d7
+13	730	7595021248685906	build.ninja	b5797a31e68163d7
 23	32	7586673550687089	clean	627ac5a78c1239ae
 465	891	7586669247517055	3D_Test.exe	c3ff3afe1d4ebc79
 42	1930	7586675388139299	CMakeFiles/Kalkulus_TugasAkhir_Kelompok.dir/Kalkulus_Kurva_3D.cpp.obj	db218bb6afb25692
-161	545	7591726802061589	Kalkulus_TugasAkhir_Kelompok.exe	52fe13325e51c8a2
-6	1012	7591719593240617	CMakeFiles/Kalkulus_TugasAkhir_Kelompok.dir/Kalkulus_Kurva_2D.cpp.obj	11dc50a7a2cf7b13
-5	1031	7595018044078616	CMakeFiles/Kalkulus_TugasAkhir_Kelompok.dir/Testing.cpp.obj	6bec945236e098fa
-4	1525	7595018878896642	CMakeFiles/Kalkulus_TugasAkhir_Kelompok.dir/Testing.cpp.obj	6bec945236e098fa
 1526	1664	7595018894122860	Kalkulus_TugasAkhir_Kelompok.exe	ae24649fea783ec2
+6	1012	7591719593240617	CMakeFiles/Kalkulus_TugasAkhir_Kelompok.dir/Kalkulus_Kurva_2D.cpp.obj	11dc50a7a2cf7b13
+4	1525	7595018878896642	CMakeFiles/Kalkulus_TugasAkhir_Kelompok.dir/Testing.cpp.obj	6bec945236e098fa
+6	1516	7595023675718491	CMakeFiles/Kalkulus_TugasAkhir_Kelompok.dir/Kalkulus_Kurva_3D.cpp.obj	db218bb6afb25692
+1520	1669	7595023690860078	Kalkulus_TugasAkhir_Kelompok.exe	52fe13325e51c8a2
