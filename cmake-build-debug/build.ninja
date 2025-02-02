@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/FICEN$ LIANA/CLionProjects/Kalkulus_TugasAkhir_K
 
 build cmake_object_order_depends_target_Kalkulus_TugasAkhir_Kelompok: phony || .
 
-build CMakeFiles/Kalkulus_TugasAkhir_Kelompok.dir/Kalkulus_Kurva_3D.cpp.obj: CXX_COMPILER__Kalkulus_TugasAkhir_Kelompok_unscanned_Debug C$:/Users/FICEN$ LIANA/CLionProjects/Kalkulus_TugasAkhir_Kelompok/Kalkulus_Kurva_3D.cpp || cmake_object_order_depends_target_Kalkulus_TugasAkhir_Kelompok
-  DEP_FILE = CMakeFiles\Kalkulus_TugasAkhir_Kelompok.dir\Kalkulus_Kurva_3D.cpp.obj.d
+build CMakeFiles/Kalkulus_TugasAkhir_Kelompok.dir/Kalkulus_Kurva_2D.cpp.obj: CXX_COMPILER__Kalkulus_TugasAkhir_Kelompok_unscanned_Debug C$:/Users/FICEN$ LIANA/CLionProjects/Kalkulus_TugasAkhir_Kelompok/Kalkulus_Kurva_2D.cpp || cmake_object_order_depends_target_Kalkulus_TugasAkhir_Kelompok
+  DEP_FILE = CMakeFiles\Kalkulus_TugasAkhir_Kelompok.dir\Kalkulus_Kurva_2D.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -IC:/SDL2/include
   OBJECT_DIR = CMakeFiles\Kalkulus_TugasAkhir_Kelompok.dir
@@ -64,7 +64,7 @@ build CMakeFiles/Kalkulus_TugasAkhir_Kelompok.dir/Kalkulus_Kurva_3D.cpp.obj: CXX
 #############################################
 # Link the executable Kalkulus_TugasAkhir_Kelompok.exe
 
-build Kalkulus_TugasAkhir_Kelompok.exe: CXX_EXECUTABLE_LINKER__Kalkulus_TugasAkhir_Kelompok_Debug CMakeFiles/Kalkulus_TugasAkhir_Kelompok.dir/Kalkulus_Kurva_3D.cpp.obj
+build Kalkulus_TugasAkhir_Kelompok.exe: CXX_EXECUTABLE_LINKER__Kalkulus_TugasAkhir_Kelompok_Debug CMakeFiles/Kalkulus_TugasAkhir_Kelompok.dir/Kalkulus_Kurva_2D.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lSDL2  -lSDL2main  -lopengl32  -lglu32  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   LINK_PATH = -LC:/SDL2/lib
