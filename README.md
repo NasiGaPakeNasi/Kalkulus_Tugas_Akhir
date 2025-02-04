@@ -1,7 +1,7 @@
 Cara Build dan Menjalankan : 
 1. ctrl + shift + p (Visual Studio Code, Command Pallete)
 2. ketik CMake:Build (CMake akan membuild program (.exe) dari kode dan library kita)
-3. cek di folder build apakah sudah ada hasil .exe nya atau tidak jika belum cek apakah ada yang salah pada konfigurasi CMakelist.txt
+3. cek di folder build apakah sudah ada hasil .exe nya atau tidak jika belum cek apakah ada yang salah pada konfigurasi CMakelists.txt apakah ada yang salah pada lik library ke SDL2 nya? dll
 
 Setup Compiler, Builder, Library yang di pakai :
 1. Compiler : 
