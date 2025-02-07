@@ -9,7 +9,7 @@ set(CMAKE_CXX_STANDARD 17)
 include_directories("C:/SDL2/include")
 link_directories("C:/SDL2/lib")
 
-add_executable(Kalkulus_TugasAkhir_Kelompok Kalkulus_Kurva_2D_ReWrite.cpp)
+add_executable(Kalkulus_TugasAkhir_Kelompok Kalkulus_Kurva_3D_ReWrite.cpp)
 # Misal ingin menjalankan Kalkulus_Kurva_2D.cpp maka Konfigurasi add_executeable nya :
 # add_executable(Kalkulus_TugasAkhir_Kelompok Kalkulus_Kurva_2D.cpp)
 
