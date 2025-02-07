@@ -3,6 +3,8 @@ Cara Build dan Menjalankan :
 2. ketik CMake:Build (CMake akan membuild program (.exe) dari kode dan library kita)
 3. cek di folder build apakah sudah ada hasil .exe nya atau tidak jika belum cek apakah ada yang salah pada konfigurasi CMakelists.txt apakah ada yang salah pada lik library ke SDL2 nya? dll
 
+tapi sebelum itu cek ini dulu biar berjalan lancar!
+
 Setup Compiler, Builder, Library yang di pakai :
 1. Compiler : 
 - mingw64 versi 14.2.0 64 bit (Latest/Terbaru saat 2/2/2025)
